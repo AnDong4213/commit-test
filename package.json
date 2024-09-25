@@ -1,0 +1,12 @@
+{
+  "name": "commit-test",
+  "version": "0.1.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "npm run serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
